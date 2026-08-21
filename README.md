@@ -1,4 +1,3 @@
-# Aarogya-Drishti
 # Aarogya Drishti
 
 ### Personal Wellness Analytics Dashboard
